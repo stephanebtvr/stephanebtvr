@@ -10,7 +10,7 @@
 - __JAVA / JEE__         
 - __Spring / SpringBoot__ 
 - __Jenkins / Docker__ 
-- __JUnit          
+- __JUnit__         
 
 - 📫 How to reach me: stephane.btvr@gmail.com
 
