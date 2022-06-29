@@ -7,6 +7,7 @@
 - __Node / Express__
 - __MongoDb__
 - __SQL / JDBC__
+- __JPA / Hibernate__
 - __JAVA / JEE__         
 - __Spring / SpringBoot__ 
 - __Jenkins / Docker__ 
