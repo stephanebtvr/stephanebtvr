@@ -3,7 +3,7 @@
 - I'm currently Java/Angular developer.
 - 🌱 I’have started learning Java and Angular at M2i Formation School. Just before I have learnt Jasvascript and React at Le Reacteur School.
 - My Stack :
--  __HTML/CSS (Sass & Bootstrap) / JavaScript__
+-  __HTML/CSS (Sass & Bootstrap) / JavaScript,TypeScript__
 - __React / Angular__
 - __Node / Express__
 - __MongoDb__
